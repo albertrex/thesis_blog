@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+---
+
+![Cover Image](/assets/Cover Image.jpg)
+
