@@ -13,4 +13,5 @@ Posts made at least weekly will include a broad update and key sources and prece
 
 
 
-![2021-06-15-First-Walk](/_posts/2021-06-15-First-Walk.md)
+site.posts
+
