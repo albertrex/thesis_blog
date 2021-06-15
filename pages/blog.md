@@ -13,5 +13,5 @@ Posts made at least weekly will include a broad update and key sources and prece
 
 
 
-site.posts
+{{ site.posts }}
 
