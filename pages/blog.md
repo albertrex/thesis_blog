@@ -13,12 +13,5 @@ Posts made at least weekly will include a broad update and key sources and prece
 
 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 
