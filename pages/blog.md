@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "bloghome"
 title: "Blog"
 permalink: /Blog
 ---
@@ -20,6 +20,5 @@ Posts made at least weekly will include a broad update and key sources and prece
     </li>
   {% endfor %}
 </ul>
-
 
 
