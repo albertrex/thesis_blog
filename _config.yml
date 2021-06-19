@@ -22,8 +22,8 @@ title: An LA Thesis
 email: albertrex83@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I've put together this blog to log the development of my RMIT MLA Projects A & B thesis         work over the coming year.
-baseurl: "thesis_blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/thesis_blog" # the subpath of your site, e.g. /blog
+url: "https://albertrex.github.io/thesis_blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 

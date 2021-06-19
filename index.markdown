@@ -7,16 +7,18 @@ title: An LA Thesis
 ---
 
 ---
+<br />
 A thesis in Landscape Architecture, on Melbourne, by Albert Rex.
+<br />
+<br />
+![Church](assets/Church.jpg)
 
-
-
-![image] (assets/Church.jpg)
-
-
-
-*Medieval Parish Church Erected next to an Ancient Monolith*
-
+*Medieval Parish Church Erected next to an Ancient Monolith*.
+<br />
+<br />
 Work undertaken for RMIT Master of Landscape Architecture Projects A and B.
-July 2021 - June 2022
+
+<br />
+<br />
+July 2021 - June 2022.
 
