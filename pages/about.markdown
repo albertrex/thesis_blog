@@ -4,6 +4,16 @@ title: About
 permalink: /about/
 ---
 
+By Albert Rex.
+
+This blog has been created to document my Master of Landscape Architecture Projects A & B thesis work at RMIT University, in Melbourne, Australia.
+
+A select collection of past work can be found at [Issuu](https://issuu.com/albertmrex?issuu_product=header&issuu_subproduct=publisher-home&issuu_context=link&issuu_cta=profile).
+
+Please feel absolutely free to get in touch!
+
+--- <br />
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 This blog has been created to document my Master of Landscape Architecture Projects A & B thesis work at RMIT University, in Melbourne, Australia.
