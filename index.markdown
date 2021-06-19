@@ -9,7 +9,6 @@ title: An LA Thesis
 ---
 A thesis in Landscape Architecture, on Melbourne, by Albert Rex.
 
-![Cover Image](/assets/Cover Image.jpg)
+{% include image.html file="\assets\Cover Image.jpg" description="This is a test caption" %}
 
-    *Work undertaken for RMIT Master of Landscape Architecture Projects A and B.*
-    
+*Work undertaken for RMIT Master of Landscape Architecture Projects A and B.*
