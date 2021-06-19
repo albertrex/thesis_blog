@@ -11,3 +11,5 @@ A thesis in Landscape Architecture, on Melbourne, by Albert Rex.
 
 ![Cover Image](/assets/Cover Image.jpg)
 
+    *Work undertaken for RMIT Master of Landscape Architecture Projects A and B.*
+    
