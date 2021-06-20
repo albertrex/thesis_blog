@@ -8,19 +8,35 @@ A regularly updated collection of annotated excerpts from a `drawing as thinking
 
 <br />
 
-Saturday, 12.06.2021
+**Saturday, 12.06.2021**
 
-![Sketch 4](assets/sketchbook/SKB4.jpg)
+![Sketch 4]({{ site.url }}assets/sketchbook/SKB4.jpg)
 
-Friday, 11.06.2021
+*A house near my house*
 
-![Sketch 3](assets/sketchbook/SKB3.jpg)
+<br />
 
-Monday, 07.06.2021
+**Friday, 11.06.2021**
 
-![Sketch 2](assets/sketchbook/SKB2.jpg)
+![Sketch 3]({{ site.url }}assets/sketchbook/SKB3.jpg)
 
-Some Time in the Summer
+*A house near my house*
 
-![Sketch 1](assets/sketchbook/SKB1.jpg)
+<br />
+
+**Monday, 07.06.2021**
+
+![Sketch 2]({{ site.url }}assets/sketchbook/SKB2.jpg)
+
+*A house out my lounge room window*
+
+<br />
+
+**Some Time in the Summer**
+
+![Sketch 1]({{ site.url }}assets/sketchbook/SKB1.jpg)
+
+*A street near my house*
+
+<br />
 
